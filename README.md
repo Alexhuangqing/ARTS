@@ -16,7 +16,7 @@
 
 
 
-- ##[最值得关注的 20 个优秀企业技术博客](https://infoq.cn/article/20-outstanding-enterprise-technology-blog)
+- ## [最值得关注的 20 个优秀企业技术博客](https://infoq.cn/article/20-outstanding-enterprise-technology-blog)
   - [Twitter](https://blog.twitter.com/engineering/en_us.html)
   - [LinkedIn](https://engineering.linkedin.com/)
   - [Facebook](https://code.fb.com/)
