@@ -1,4 +1,4 @@
-package week1;
+package weeks;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -27,13 +27,13 @@ import java.util.Map;
  */
 
 
-public class TwoSum {
+public class Week1TwoSum {
 
 
     public static void main(String[] args) {
         int[]  nums = new int[]{2, 7, 11, 15};
         int target = 9;
-        TwoSum tesTwoSum = new TwoSum();
+        Week1TwoSum tesTwoSum = new Week1TwoSum();
         int[] ints = tesTwoSum.twoSum1(nums, target);
         int[] int2s = tesTwoSum.twoSum2(nums, target);
         int[] int3s = tesTwoSum.twoSum3(nums, target);
