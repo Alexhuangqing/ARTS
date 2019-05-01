@@ -17,10 +17,6 @@ package weeks;
  */
 public class Week4RemoveDuplicates {
 
-    public void test1(){
-
-    }
-
     /**
      * nums是有序数组
      * @param nums
