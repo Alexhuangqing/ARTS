@@ -96,3 +96,8 @@ Notion AI 将做笔记的app推向一个新的台阶。它能够通过Nation app
 
 但是，那不是全部。除了生成文本，Notion AI也是一个强大的编辑器。他可以帮助你总结本本，纠正拼写与语法，翻译你的文本成多种语言。
 
+---
+
+原文出处：
+
+[6 AI Tools That Will Make Your Life Easier (Other Than ChatGPT)](https://artificialcorner.com/6-ai-tools-that-will-make-your-life-easier-a1b71d15cbff)
